@@ -1,0 +1,21 @@
+{
+  "name": "hamburgeria_tony",
+  "version": "1.0.0",
+  "description": "01 - Criar o arquivo package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "nodemon": "^2.0.15",
+    "sucrase": "^3.20.3"
+  }
+}
